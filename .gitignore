@@ -1,1 +1,5 @@
-.idea
+*.idea
+/idea
+/vscode
+/DS_Store
+/gitignore.
