@@ -1,5 +1,5 @@
 *.idea
-/idea
-/vscode
-/DS_Store
-/db/*.sqlite3
+/.idea
+/.vscode
+/.DS_Store
+*.sqlite3
